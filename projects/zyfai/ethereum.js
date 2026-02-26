@@ -26,6 +26,12 @@ const ETHEREUM_MORPHO_POOLS = {
   'Steakhouse Prime Instant': '0xbeef0046fcab1dE47E41fB75BB3dC4Dfc94108E3',
   'Gauntlet WETH Prime': '0x2371e134e3455e0593363cBF89d3b6cf53740618',
   'Re Ecosystem Vault': '0xD1E9242e075Db4bdd3f3c721D7d5fd4180A94A7e',
+  'Gauntlet USDC RWA': '0xA8875aaeBc4f830524e35d57F9772FfAcbdD6C45',
+  'Alpha USDC Core': '0xb0f05E4De970A1aaf77f8C2F823953a367504BA9',
+  '9Summits USDC': '0x1E2aAaDcF528b9cC08F43d4fd7db488cE89F5741',
+  'f(x) Protocol Re7 USDC': '0x4F460bb11cf958606C69A963B4A17f9DaEEea8b6',
+  'Avantgarde USDC Conservative': '0xeBBaE8CfAbB0092d5B32f00EBeE0c8139d24dDcd',
+  'Coinshift USDC': '0x7204B7Dbf9412567835633B6F00C3Edc3a8D6330',
 };
 
 // Fluid (Ethereum mainnet)
